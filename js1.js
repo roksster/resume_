@@ -1,0 +1,1 @@
+<a href="mailto:angelfragamz@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a>
